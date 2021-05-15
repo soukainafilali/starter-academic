@@ -75,7 +75,7 @@ highlight_name: false
 
 Prior to joinin USU, I obtained my Ph.D. and M.S. in Computer Science from Georgia State University in 2020 (under the supervision of [Dr. Rafal Angryk](https://sites.google.com/view/dmlab/garbage-collector/professor-page-list/rafal-a-angryk)). Throughout my PhD and data science internships in Expedia and LexisNexis, I was particularly interested in interdisciplinary research that involved designing new methods for mining high dimensional time series data for the task of prediction. 
 
-I recently received the title of “Outstanding Teaching Awardee” of the year 2019 and “Outstanding Research Awardee” of the year 2018 from the computer science department of GSU. I was also featured as the next exemplary Second Century Initiative (2CI) Fellow in the university ([full interview](https://nextgen.gsu.edu/2019/05/15/second-century-initiative-fellow-applies-computer-science-research-to-multiple-fields-at-georgia-state/)).
+I recently received the title of “Outstanding Teaching Awardee” of the year 2019 and “Outstanding Research Awardee” of the year 2018 from the computer science department of GSU. I was also featured as the next exemplary Second Century Initiative (2CI) Fellow in the university:[full interview](https://nextgen.gsu.edu/2019/05/15/second-century-initiative-fellow-applies-computer-science-research-to-multiple-fields-at-georgia-state/).
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
