@@ -19,7 +19,7 @@ bio: My research interests include Data Science; Time Series and Spatiotemporal 
 # Interests to show in About widget
 interests:
 - Time Series Mining
-- Data Augmantion and Rule Discovery
+- Data Augmentation and Rule Discovery
 - Information Retrieval
 
 # Education to show in About widget
