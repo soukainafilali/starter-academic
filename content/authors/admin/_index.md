@@ -73,8 +73,8 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Soukaina Filali Boubrahimi obtained her Ph.D. and M.S. in Computer Science from Georgia State University in 2020 (under the supervision of Prof. Dr. Rafal Angryk). Throughout her PhD and data science internships in Expedia and LexisNexis, she was particularly interested in interdisciplinary research that involved designing new methods for mining high dimensional time series data for the task of prediction. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Soukaina recently received the title of “Outstanding Teaching Awardee” of the year 2019 and “Outstanding Research Awardee” of the year 2018 from the computer science department of GSU for her quality publications in high venue conferences and journals. She was also featured as the next exemplary Second Century Initiative (2CI) Fellow in the university (full interview). Prior to receiving her PhD from GSU, Soukaina received her master’s degree in Software Engineering and Bachelor’s degree in Computer Science from Al Akhawayn University in Ifrane, Morocco.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
