@@ -73,9 +73,9 @@ email: ""
 highlight_name: false
 ---
 
-Soukaina Filali Boubrahimi obtained her Ph.D. and M.S. in Computer Science from Georgia State University in 2020 (under the supervision of Prof. Dr. Rafal Angryk). Throughout her PhD and data science internships in Expedia and LexisNexis, she was particularly interested in interdisciplinary research that involved designing new methods for mining high dimensional time series data for the task of prediction. 
+Prior to joinin USU, I obtained my Ph.D. and M.S. in Computer Science from Georgia State University in 2020 (under the supervision of Prof. Dr. Rafal Angryk). Throughout my PhD and data science internships in Expedia and LexisNexis, I was particularly interested in interdisciplinary research that involved designing new methods for mining high dimensional time series data for the task of prediction. 
 
-Soukaina recently received the title of “Outstanding Teaching Awardee” of the year 2019 and “Outstanding Research Awardee” of the year 2018 from the computer science department of GSU for her quality publications in high venue conferences and journals. She was also featured as the next exemplary Second Century Initiative (2CI) Fellow in the university (full interview).
-[Your Title](https://nextgen.gsu.edu/2019/05/15/second-century-initiative-fellow-applies-computer-science-research-to-multiple-fields-at-georgia-state/)
+I recently received the title of “Outstanding Teaching Awardee” of the year 2019 and “Outstanding Research Awardee” of the year 2018 from the computer science department of GSU. I was also featured as the next exemplary Second Century Initiative (2CI) Fellow in the university ([full interview](https://nextgen.gsu.edu/2019/05/15/second-century-initiative-fellow-applies-computer-science-research-to-multiple-fields-at-georgia-state/)).
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
