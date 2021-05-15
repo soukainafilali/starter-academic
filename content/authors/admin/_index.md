@@ -46,9 +46,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link:  "mailto:soukaina.boubrahimi@usu.edu"   #'/#contact'
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Soukaina-Filali-Boubrahimi
 - icon: dblp
-  icon_pack: fab
-  link: https://dblp.org/pid/189/1588.html
+  icon_pack: ai
+  link: https://dblp.org/pid/189/1588.html 
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
