@@ -1,39 +1,43 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Soukaina Filali Boubrahimi
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Professor of Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Utah State University
+  url: https://www.usu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Data Science; Time Series and Spatiotemporal Pattern Discovery; Machine Learning; Deep Learning; and Visualization.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
+- Time Series Mining
+- Data Augmantion and Rule Discovery
 - Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  <i class="fas fa-graduation-cap"></i>
+  - course: PhD in Computer Science 
+    institution: Georgia State University
+    year: 2020
+  - course: MS in Computer Science
+    institution: Georgia State University
+    year: 2019
+  - course: MS in Software Engineering
+    institution: Al Akhawyan University in Ifrane, Ifrane, Morocco
+    year: 2015
+  - course: BSc in Computer Science 
+    institution: Al Akhawyan University in Ifrane, Ifrane, Morocco
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
