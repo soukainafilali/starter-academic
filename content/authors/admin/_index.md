@@ -25,7 +25,6 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  <i class="fas fa-graduation-cap"></i>
   - course: PhD in Computer Science 
     institution: Georgia State University
     year: 2020
