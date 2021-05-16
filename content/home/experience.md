@@ -25,7 +25,7 @@ experience:
   - title: CS 6675/7675 
     company: Advanced Data Mining  
     company_url: ''
-    company_logo: org
+    company_logo: org-x
     location: Web-broadcast
     date_start: '2021-01-01'
     date_end: ''
