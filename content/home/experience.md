@@ -1,5 +1,5 @@
 ---
-widget: teaching
+widget: experience
 date_format: Jan 2006
 experience:
   - title: CS 5080/6080
