@@ -29,9 +29,7 @@ experience:
     location: Web-broadcast
     date_start: '2021-01-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-This course provides a deep dive into advanced topics in mining texts, graphs, time-series data, vector datasets, and frequent itemset and association rules. The lectures will provide students with a sufficient foundation to apply data mining techniques on massive real-life data repositories using Python. Students will gain hands-on experience in the chosen aspect of the data mining area through the completion of a major data mining project. Topics covered include Node2Vec/Word2Vec models for text and graph embedding, vector space models, time series classifiers, representation learning, data reduction, and association rule mining. 
+    description: mmmm
 
         
   - title: CS 5080/6080
