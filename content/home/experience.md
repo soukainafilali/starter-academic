@@ -39,7 +39,7 @@ experience:
     location: Web-broadcast
     date_start: '2016-01-01'
     date_end: '2020-12-31'
-    description: This course provides a broad introduction to state-of-the-art research on data mining, machine learning models, and statistical pattern recognition on time series data. The goal is to learn how to apply, inspect, and evaluate different mining techniques on time series data using Python. Topics covered include time-series representation learning, Fourier and Wavelet transform dimensionality reductions, similarity search, classification, visualization, and frequent patterns mining. Additional coursework is required for students enrolled in the graduate-level course. 
+    description: This course provides a broad introduction to state-of-the-art research on data mining, machine learning models, and statistical pattern recognition on time series data. The goal is to learn how to apply, inspect, and evaluate different mining techniques on time series data using Python. Topics covered include time-series representation learning, Fourier and Wavelet transform dimensionality reductions, similarity search, classification, visualization, and frequent patterns mining. Additional coursework is required for students enrolled in the graduate-level course.
 
 design:
   columns: '2'
