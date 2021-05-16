@@ -43,6 +43,7 @@ headless: true
 weight: 40
 title: Teaching
 subtitle: null
+
 design:
   columns: "2"
 ---
