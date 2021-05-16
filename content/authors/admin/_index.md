@@ -54,7 +54,7 @@ social:
   link: https://dblp.org/pid/189/1588.html 
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?hl=en&pli=1&user=zjWK5KgAAAAJ
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/soukainafilali/
