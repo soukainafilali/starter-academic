@@ -34,7 +34,6 @@ experience:
   - title: CS 5080/6080
     company: Time Series Data Mining 
     company_url: ''
-    company_logo: org-x
     location: Web-broadcast
     date_start: '2016-01-01'
     date_end: '2020-12-31'
