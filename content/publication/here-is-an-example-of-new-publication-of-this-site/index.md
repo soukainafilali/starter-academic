@@ -1,5 +1,5 @@
 ---
-title: Time Series RuleMiner using Shapelets
+title: "RuleMiner: Time Series Rule Mining using Shapelets"
 publication_types:
   - "1"
 authors: []
