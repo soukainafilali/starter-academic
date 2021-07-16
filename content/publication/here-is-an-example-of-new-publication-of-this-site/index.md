@@ -1,7 +1,7 @@
 ---
 title: Here is an example of new publication of this site
 publication_types:
-  - "0"
+  - "1"
 draft: false
 featured: false
 image:
