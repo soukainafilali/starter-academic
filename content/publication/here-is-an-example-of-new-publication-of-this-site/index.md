@@ -29,6 +29,7 @@ image:
   filename: screen-shot-2021-07-16-at-10.47.07-am.png
   focal_point: Smart
   preview_only: false
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
 date: 2021-07-16T16:00:41.607Z
 ---
 {{% callout note %}}
