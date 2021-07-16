@@ -26,7 +26,7 @@ abstract: The rapid upsurge of numerical sources of information and the growth
 draft: false
 featured: true
 image:
-  filename: ""
+  filename: screen-shot-2021-07-16-at-10.47.07-am.png
   focal_point: Smart
   preview_only: false
 date: 2021-07-16T16:00:41.607Z
